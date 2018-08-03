@@ -15,4 +15,12 @@
 #### 개발환경(Development environment)
 > ##### 1. Arduino 1.85
 
+#### 라이브러리(Libraries)
+1. EtherCard(ENC28J60) / (GPL v2)
+2. Adafruit Unified Sensor Driver 
 
+#### 참고(Reference)
+Link: [Arduino - Software], [Arduino - Software], "https://www.arduino.cc/en/Main/Software" "Arduino - Software"
+Link: [njh/EtherCard: EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE], [Github], "https://github.com/jcw/ethercard" "EtherCard"
+Link: [Overview | DHT11, DHT22 and AM2302 Sensors | Adafruit Learning System], [Adafruit Learning System], "https://learn.adafruit.com/dht", "Adafruit"
+Link: [Adafruit Unified Sensor Driver], [], "https://github.com/adafruit/Adafruit_Sensor", "Adafruit"
