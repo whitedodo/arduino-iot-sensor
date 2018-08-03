@@ -21,6 +21,9 @@
 
 #### 참고(Reference)
 Link: [Arduino - Software], [Arduino - Software], "https://www.arduino.cc/en/Main/Software" "Arduino - Software"
+
 Link: [njh/EtherCard: EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE], [Github], "https://github.com/jcw/ethercard" "EtherCard"
+
 Link: [Overview | DHT11, DHT22 and AM2302 Sensors | Adafruit Learning System], [Adafruit Learning System], "https://learn.adafruit.com/dht", "Adafruit"
+
 Link: [Adafruit Unified Sensor Driver], [], "https://github.com/adafruit/Adafruit_Sensor", "Adafruit"
