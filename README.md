@@ -1,7 +1,7 @@
 ## [arduino IOT Sensor - Project]
 
 #### 작성자 소개(About the author)
-> ##### 1. Dodo (rabbit.white@daum.net)
+> ##### 1. Dodo (rabbit.white@daum.net / jungwy@kumoh.ac.kr)
 > ##### 2. Created by: 2017-12-20
 > ##### 3. Description: 
 > ###### 3-1. Using DHT11 sensor, temperature and humidity can be measured.(DHT11 센서 사용하여 온도, 습도 측정가능.)
